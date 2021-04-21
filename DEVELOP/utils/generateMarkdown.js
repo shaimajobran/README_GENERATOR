@@ -46,7 +46,7 @@ To run tests, run the following:
 ${data.tests}
 \`
 ## Questions
-Questions about this repository? Please contact me at [${data.email}](mailto:${data.email}). View more of my work in GitHub at [${data.username}](https://github.com/${data.username}) 
+Questions about this repository?  contact me at [${data.email}](mailto:${data.email}). View my work in GitHub at [${data.username}](https://github.com/${data.username}) 
 `;
 }
 
